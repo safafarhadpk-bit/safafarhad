@@ -32,7 +32,8 @@
 </div>
 <br clear="both">
 
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg" />
+
 
 
 
