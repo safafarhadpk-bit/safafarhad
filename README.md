@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e9563afa-2240-4c4b-8b41-9b75d284d6db" />
+<img width="12" height="30" a30lt="image" src="https://github.com/user-attachments/assets/e9563afa-2240-4c4b-8b41-9b75d284d6db" />
 
 </div>
 <div align="left">
