@@ -6,11 +6,8 @@ Hi 👋! My name is Safa and I'm a Passionate frontend developer, from karachi <
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-
-"<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/412cd8c2-8400-4388-881e-8be66f24641d" />
+<img align="right" width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/59ab7e0e-ae4a-4ba0-ada9-f9fff8c318f5" />
+"  />
 "
 
 <br clear="both">
