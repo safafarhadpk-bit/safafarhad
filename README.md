@@ -10,7 +10,7 @@ Hi 👋! My name is Safa and I'm a Passionate frontend developer, from karachi <
 ###
 
 
-"<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/412cd8c2-8400-4388-881e-8be66f24641d" />
+"<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/412cd8c2-8400-4388-881e-8be66f24641d" />
 "
 
 <br clear="both">
