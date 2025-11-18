@@ -9,8 +9,8 @@ Hi 👋! My name is Safa and I'm a Passionate frontend developer, from karachi <
 
 ###
 
-<img align="right" height="150" src=
-"<img width="1200" height="1999" alt="image" src="https://github.com/user-attachments/assets/412cd8c2-8400-4388-881e-8be66f24641d" />
+
+"<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/412cd8c2-8400-4388-881e-8be66f24641d" />
 "
 
 <br clear="both">
@@ -30,10 +30,8 @@ Hi 👋! My name is Safa and I'm a Passionate frontend developer, from karachi <
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-   <img src="<img width="1199" height="907" alt="image" src="https://github.com/user-attachments/assets/52110bf5-d73b-4d2e-8296-6afb492a85bb" />
-" height="30" alt="python logo"  />
-  <img width="12" />
-  <img width="12" />
+ 
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
@@ -56,9 +54,5 @@ Hi 👋! My name is Safa and I'm a Passionate frontend developer, from karachi <
 
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
