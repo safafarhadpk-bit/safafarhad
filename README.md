@@ -20,8 +20,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-<img width="12" height="30" a30lt="image" src="https://github.com/user-attachments/assets/e9563afa-2240-4c4b-8b41-9b75d284d6db" />
-
+<img  height="30" alt="image" src="https://github.com/user-attachments/assets/e9563afa-2240-4c4b-8b41-9b75d284d6db" />
+<img width="12" />
 </div>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
